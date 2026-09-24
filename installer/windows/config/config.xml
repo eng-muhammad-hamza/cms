@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Installer>
+    <Name>Client Management System</Name>
+    <Version>1.0.0</Version>
+    <Title>Client Managment System Application Installer</Title>
+    <Publisher>Peak Productions</Publisher>
+    <StartMenuDir>Client Management</StartMenuDir>
+    <TargetDir>@HomeDir@/ClientManagement</TargetDir>
+</Installer>

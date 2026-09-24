@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Package>
+    <DisplayName>Client Managmenet Application</DisplayName>
+    <Description>Install the Client Managmenet Application</Description>
+    <Version>1.0.0</Version>
+    <ReleaseDate>2024-08-03</ReleaseDate>
+    <Licenses>
+        <License name="Training License Agreement" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+</Package>
